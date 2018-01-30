@@ -1,0 +1,53 @@
+/* colors : http://flatuicolors.com/palette/fr*/
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  color: #3c4344;
+}
+
+.content {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 20px;
+  height: 65vh;
+
+}
+
+header{
+  background-color: white;
+  border-radius : 5px;
+  text-align: center;
+  padding: 0.2%;
+  border-bottom: solid 1px #ebebeb;
+
+}
+
+header div h1,h2 {
+  width: 100%;
+  color: #2c3e50;
+}
+
+.navbar li {
+  display: inline-block;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.nav-input input {
+  width: 80px;
+}
+
+
+.nav-input {
+  text-align: right;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+footer {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 0%;
+
+}
